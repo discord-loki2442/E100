@@ -1,0 +1,32 @@
+{
+  "name": "e100",
+  "version": "1.0.0",
+  "description": "The Basic Discord Bot made in the eris Library by Loki2442",
+  "main": "index.js",
+  "scripts": {
+    "test": "$ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/discord-loki2442/E100.git"
+  },
+  "keywords": [
+    "Discord",
+    "Eris",
+    "Loki2442",
+    "JavaScript"
+  ],
+  "author": "Loki2442",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/discord-loki2442/E100/issues"
+  },
+  "homepage": "https://github.com/discord-loki2442/E100#readme",
+  "dependencies": {
+    "bufferutil": "^4.0.2",
+    "eris": "^0.14.0",
+    "opusscript": "0.0.7",
+    "tweetnacl": "^1.0.3",
+    "ws": "^7.4.0"
+  }
+}

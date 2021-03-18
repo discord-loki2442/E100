@@ -1,0 +1,11 @@
+{
+	"author": "Loki2442",
+	"prefix": "$",
+	"token": "<Bot Token Here>",
+	"meaning_of_life": 24,
+	"passwords_array": ["please", "dont", "hack", "me"],
+	"secret_passcodes": {
+		"bank": 1234,
+		"home": 4321
+	}
+}
